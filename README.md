@@ -1,4 +1,4 @@
-## Important
+https://bscscan.com/token/0x88d7e9b65dc24cf54f5edef929225fc3e1580c25#code#F1#L1## Important
 
 Palkeo is maintaining a more up to date for of Panoramix. Be sure to check it out:
 
